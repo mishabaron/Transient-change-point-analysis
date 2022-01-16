@@ -64,4 +64,9 @@ main = "ROC curves for detecting a change in the mean" );
 for (k in 2:Nscena){
 lines( Prob.False.Alarm[,k], Prob.Detection[,k], lwd=2, col=color[k])
                     }
+# for (k in 1:Nscena){
+# legend(0.66, 0.05*k, legend=paste(expression(mu),"=",mu1[k]," and ",
+#                          expression(Delta),"=",change.interval[k]),
+#  col=color, cex=1, lwd=2, bg='white') }
+
   
