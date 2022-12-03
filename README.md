@@ -1,5 +1,10 @@
 Transient-change-point-analysis
+
 R codes of Michael Baron and Sergey Malov for the detection and estimation of single and multiple transient changes
+
+Video presentation at the 10-th World Congress in Probability and Statistics, Seoul National University, July 19-23, 2021
+https://www.youtube.com/watch?v=3sTW_MJsubg
+
 
 List of codes and their description:
 
@@ -32,24 +37,24 @@ multiple-changes.R
 
 power-analysis-laplace.R
  Simulations. Generate data with one transient change.
- Estimate threshold h WITHOUT DOOB.
+ Estimate threshold h.
  Study the POWER for different sigma1 and (b-a)
  Normal(0,1) changes to Laplace(0,1/sqrt(2))
 
 power-analysis-mean.R
  Simulations. Generate data with one transient change.
- Estimate threshold h WITHOUT DOOB.
+ Estimate threshold h.
  Study the POWER for different mu1 and (b-a)
  Normal(0,1) changes to Normal(mu1,1), known parameters
 
 power-analysis-variance.R
  Simulations. Generate data with one transient change.
- Estimate threshold h WITHOUT DOOB.
+ Estimate threshold h.
  Study the POWER for different sigma1 and (b-a)
  Normal(0,1) changes to Normal(0,sigma1), known parameters
 
 threshold-low-bound.R
  Simulations. Generate data with one transient change.
- Estimate threshold h WITHOUT DOOB.
+ Estimate threshold h.
  Study FAR, FRR, the distribution of estimates.
  Normal(0,1) changes to Normal(mu1,1), known parameters
