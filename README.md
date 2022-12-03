@@ -5,6 +5,8 @@ R codes of Michael Baron and Sergey Malov for the detection and estimation of si
 Video presentation at the 10-th World Congress in Probability and Statistics, Seoul National University, July 19-23, 2021 - 
 https://www.youtube.com/watch?v=3sTW_MJsubg
 
+Preliminary publication on Arxiv - https://arxiv.org/abs/2112.06308
+
 
 List of codes and their description:
 
