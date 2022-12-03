@@ -2,7 +2,7 @@ Transient-change-point-analysis
 
 R codes of Michael Baron and Sergey Malov for the detection and estimation of single and multiple transient changes
 
-Video presentation at the 10-th World Congress in Probability and Statistics, Seoul National University, July 19-23, 2021
+Video presentation at the 10-th World Congress in Probability and Statistics, Seoul National University, July 19-23, 2021 - 
 https://www.youtube.com/watch?v=3sTW_MJsubg
 
 
