@@ -1,6 +1,5 @@
 Transient-change-point-analysis
-R codes of Michael Baron and Sergey 
-Malov for the detection and estimation of single and multiple transient changes
+R codes of Michael Baron and Sergey Malov for the detection and estimation of single and multiple transient changes
 
 List of codes and their description:
 
